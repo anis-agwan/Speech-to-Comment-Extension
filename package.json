@@ -3,7 +3,7 @@
   "displayName": "speech-to-comment",
   "description": "An extension to write comments from speech",
   "publisher": "mo-anis-10",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/anis-agwan/Speech-to-Comment-Extension.git"
