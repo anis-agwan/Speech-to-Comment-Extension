@@ -4,6 +4,10 @@
   "description": "An extension to write comments from speech",
   "publisher": "mo-anis-10",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anis-agwan/Speech-to-Comment-Extension.git"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
