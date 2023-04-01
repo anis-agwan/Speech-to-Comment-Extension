@@ -2,6 +2,7 @@
   "name": "speech-to-comment-extension",
   "displayName": "speech-to-comment",
   "description": "An extension to write comments from speech",
+  "publisher": "mo-anis-10",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
